@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Garamond';
+    src: url('Garamond.ttf') format('truetype');
+}
+
+body {
+    background-image: url('1337196.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.col-6{
+    color: white;
+    font-family: Garamond, serif;
+    font-size: 20px;
+}
+.nav_bar{
+    font-family: Garamond, serif;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+.nav_text{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.col-5{
+    color: white;
+    font-family: Garamond, serif;
+}
+.col-1{
+    color: white;
+    font-family: Garamond, serif;
+}
+.nav_logo{
+    background: url(../free-icon-clock-2972528.png) no-repeat left center;
+    background-size: 6%;
+}
+.my_photo{
+    background: url(../clock.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 550px;
+    height: 550px;
+}
+.container {
+    margin-top: 20px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.nav_text {
+}
+.img_size {
+}
+.title_photo {
+}
