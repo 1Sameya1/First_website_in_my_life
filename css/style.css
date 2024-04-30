@@ -8,7 +8,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.col-6{
+.col-7{
     color: white;
     font-family: Garamond, serif;
     font-size: 20px;
@@ -38,25 +38,28 @@ body {
     background-size: 6%;
 }
 .my_photo{
-    background: url(../clock.jpg) no-repeat center center;
+    background: url(../clock.jpg) no-repeat right center;
     background-size: 100%;
-    width: 550px;
+    width: 500px;
     height: 550px;
 }
 .container {
     margin-top: 20px;
 }
-.row {
+.button_js{
+    text-align: center;
 }
-.col-8 {
+#myButton{
+    border: none; 
+    background-color: lavender; 
+    font-family: 'Garamond', serif; 
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+    width:  170px;
+    height: 50px;
+    border-radius: 25px;
 }
-.col-4 {
-}
-.col-3.nav_logo {
-}
-.nav_text {
-}
-.img_size {
-}
-.title_photo {
+#demo {
+    margin-top: 20px;
 }
